@@ -1,0 +1,11 @@
+voo_id,origem,destino,companhia_aerea,data_hora_partida,data_hora_chegada,capacidade_assentos
+1,Rio de Janeiro,São Paulo,Azul,2026-07-16,2026-07-16,162
+2,Belo Horizonte,Campinas,LATAM,2026-01-08,2026-01-08,273
+3,Belém,Porto Alegre,LATAM,2026-03-26,2026-03-26,251
+4,São Paulo,São Paulo,LATAM,2026-03-10,2026-03-10,155
+5,Porto Alegre,Florianópolis,LATAM,2026-08-15,2026-08-15,243
+6,Campinas,Goiânia,Voepass,2026-07-28,2026-07-28,156
+7,Florianópolis,Curitiba,LATAM,2026-10-02,2026-10-02,294
+8,Campinas,Recife,Azul,2026-01-27,2026-01-27,171
+9,Brasília,Santos,Azul,2026-05-10,2026-05-10,126
+10,Recife,Rio de Janeiro,Azul,2026-01-10,2026-01-10,188
